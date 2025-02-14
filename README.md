@@ -1,4 +1,4 @@
-# Marketing Campaign Analysis: Facebook vs. AdWords
+# Advertisement Campaign Analysis: Facebook vs. AdWords
 
 ## Project Overview
 This project analyzes the performance of two advertising campaigns—Facebook and AdWords—conducted over the year 2019. The goal is to determine which platform is more effective in terms of **conversions**, **clicks**, and **cost-effectiveness**. By identifying the better-performing platform, we aim to optimize advertising strategies and maximize ROI for future campaigns.
